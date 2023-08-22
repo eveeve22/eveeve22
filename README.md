@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Evely
+- 👋 Hi, I’m Evely Ganzarolli
 - 👀 I’m interested in all tecnologies
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Python
 
 
 <!---
