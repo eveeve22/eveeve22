@@ -1,6 +1,6 @@
-#  Olá ! eu sou a Evely Ganzarolli 👩🏼‍💻
+#  Olá ! eu sou a Evely Ganzarolli 
 
-<img src="eveeve22/rothana-chhourm-ezgif-com-resize-4.gif">
+<img src="https://cdnb.artstation.com/p/assets/images/images/007/854/253/large/rothana-chhourm-super-hacker.jpg?1508943126">
 
 
 
