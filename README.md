@@ -10,7 +10,7 @@ Estou na area de tecnologia a 11 anos e estou em transição de carreira, desejo
 
 👩‍💻 atualmente não estou trabalhando
 
-🧠 Estou cursando ciencia da computação
+🧠 Estou cursando ciência da computação
 
 👯‍♀️ Procuro colaborar em projetos Java para desevolver minhas habilidades
 
